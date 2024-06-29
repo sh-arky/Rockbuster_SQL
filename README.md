@@ -27,4 +27,4 @@ _The project brief can be found [here](https://images.careerfoundry.com/public/c
 
   ## Further info
 
-  The full ERD can be seen in the Data Dictionary.
+  The full ERD can be seen in the [Data Dictionary](https://github.com/sh-arky/Rockbuster_SQL/raw/main/Rockbuster%20Stealth%20LLC%20Data%20Dictionary.docx).

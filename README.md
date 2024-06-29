@@ -20,3 +20,11 @@ _The project brief can be found [here](https://images.careerfoundry.com/public/c
   Movie Database
 
   _The full data list can be found [here](https://images.careerfoundry.com/public/courses/data-immersion/A3/E3.1%20/actor.csv)._
+
+  ## Tools
+
+  For this project, PostGreSQL and MS Excel were utilized.
+
+  ## Further info
+
+  The full ERD can be seen in the Data Dictionary.

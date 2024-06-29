@@ -1,0 +1,12 @@
+SELECT D.title,						
+		A.amount as movie_revenue,				
+		D.rental_rate,				
+		d.rental_duration,				
+		D.rating				
+			FROM payment A			
+	INNER JOIN rental B ON a.rental_id = b.rental_id					
+	INNER JOIN inventory C ON b.inventory_id = c.inventory_id					
+	INNER JOIN FILM D ON c.film_id = d.film_id					
+						
+		ORDER BY amount DESC, rental_rate DESC				
+						

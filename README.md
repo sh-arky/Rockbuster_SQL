@@ -6,7 +6,7 @@ The information included is a part of an analysis of sample data from a fictiona
 
 The intent of the project is to analyze customer and sales data in order to remain competitive in a world of streaming services.
   
-The project brief can be found [here](https://images.careerfoundry.com/public/courses/data-immersion/A3/A3_Data_Project_Brief%20.pdf).
+_The project brief can be found [here](https://images.careerfoundry.com/public/courses/data-immersion/A3/A3_Data_Project_Brief%20.pdf)._
 
 ## Data
   **The data is comprised of locations, descriptions, and sales figures for the following categories:**
@@ -19,4 +19,4 @@ The project brief can be found [here](https://images.careerfoundry.com/public/co
   
   Movie Database
 
-  The full data list can be found [here](https://images.careerfoundry.com/public/courses/data-immersion/A3/E3.1%20/actor.csv)
+  _The full data list can be found [here](https://images.careerfoundry.com/public/courses/data-immersion/A3/E3.1%20/actor.csv)._

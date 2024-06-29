@@ -1,4 +1,4 @@
--- FIND THE AVG AMT PAID BY TOP 5 CUSTOMERS							
+/* FIND THE AVG AMT PAID BY TOP 5 CUSTOMERS */							
 SELECT AVG(total_amount_paid) as average							
 FROM							
 -- subquery total amount paid							

@@ -12,8 +12,11 @@ The project brief can be found [here](https://images.careerfoundry.com/public/co
   **The data is comprised of locations, descriptions, and sales figures for the following categories:**
   
   Customers
+  
   Employees
+  
   Stores
+  
   Movie Database
 
   The full data list can be found [here](https://images.careerfoundry.com/public/courses/data-immersion/A3/E3.1%20/actor.csv)

@@ -1,0 +1,25 @@
+
+select sum(a.amount) as revenue,						
+		count (distinct b.rental_id) as number_of_rentals,				
+		d.title,				
+		d.rental_duration,				
+		d.rental_rate,				
+		d.length,				
+		d.replacement_cost,				
+		d.rating,				
+		f.name AS genre				
+						
+		from payment A				
+						
+	INNER JOIN rental b on a.rental_id = b.rental_id					
+	INNER JOIN inventory c ON b.inventory_id = c.inventory_id					
+	INNER JOIN film D ON c.film_id = d.film_id					
+	inner join film_category E on e.film_id = d.film_id					
+	INNER JOIN category F ON e.category_id = f.category_id					
+	group by d.title,					
+		d.rental_duration,				
+		d.rental_rate,				
+		d.length,				
+		d.replacement_cost,				
+		d.rating,				
+		genre				

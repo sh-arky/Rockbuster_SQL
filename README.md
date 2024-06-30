@@ -23,10 +23,12 @@ _The project brief can be found [here](https://images.careerfoundry.com/public/c
 
   ## Tools
 
-  For this project, PostGreSQL and MS Excel were utilized.
+  For this project, PostGreSQL, Tableau and MS Excel were utilized.
+
+  Visualizations referenced in the final presentation can be found on my [Tableau profile page](https://public.tableau.com/views/3_10-powerpointstoryboard/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
+  
 
   ## Further info
 
   The full ERD can be seen in the [Data Dictionary](https://github.com/sh-arky/Rockbuster_SQL/raw/main/Rockbuster%20Stealth%20LLC%20Data%20Dictionary.docx).
 
-  Visualizations referenced in the final presentation can be found [here](https://public.tableau.com/views/3_10-powerpointstoryboard/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
